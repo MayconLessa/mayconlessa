@@ -2,7 +2,7 @@
 
 meu nome é Maycon Aparecido
 
-estou estudando na [alura] (https://www.alura.com.br)
+estou estudando na [alura](https://www.alura.com.br)
 estou me desenvolvendo no javascript
 ultilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
