@@ -10,5 +10,4 @@ ultilizo este espaço para minha organização e compartilhamento dos meus proje
 
 mayconlessa981@gmail.com
 
-![](https://tenor.com/pt-BR/view/diluc-genshin-gif-23365037.
-)
+![](https://tenor.com/pt-BR/view/diluc-genshin-gif-23365037.gif)
